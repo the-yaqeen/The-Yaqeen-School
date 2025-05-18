@@ -113,7 +113,7 @@ body {
  .hero-section {
   position: relative;
   overflow: hidden;
-  height: 800px;
+  height: 900px;
   /* background: linear-gradient(135deg, #0f8b8d, #145374); */
 }
 
@@ -125,7 +125,7 @@ body {
 }
 
 .scrolling-images img {
-  height: 800px;
+  height: 900px;
   width: auto;
   flex-shrink: 0;
   object-fit: cover;
