@@ -12,6 +12,8 @@ document.addEventListener("DOMContentLoaded", () => {
     navLinks.classList.remove("show");
   });
 
+
+  
   // Close menu when any nav item is clicked (for mobile)
   navItems.forEach(item => {
     item.addEventListener("click", () => {
